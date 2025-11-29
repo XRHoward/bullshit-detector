@@ -1,0 +1,30 @@
+# Robots.txt for Bullshit-detektor (bsdetect.org)
+# Allow all search engines and AI agents to crawl the site
+
+User-agent: *
+Allow: /
+
+# Specific rules for AI agents
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+# Sitemap location
+Sitemap: https://bsdetect.org/sitemap.xml

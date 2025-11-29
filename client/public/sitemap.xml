@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <!-- Homepage - Norwegian (primary) -->
+  <url>
+    <loc>https://bsdetect.org/</loc>
+    <lastmod>2025-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link 
+      rel="alternate"
+      hreflang="no"
+      href="https://bsdetect.org/" />
+    <xhtml:link 
+      rel="alternate"
+      hreflang="en"
+      href="https://bsdetect.org/" />
+  </url>
+  
+  <!-- About page - Norwegian -->
+  <url>
+    <loc>https://bsdetect.org/om</loc>
+    <lastmod>2025-01-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link 
+      rel="alternate"
+      hreflang="no"
+      href="https://bsdetect.org/om" />
+    <xhtml:link 
+      rel="alternate"
+      hreflang="en"
+      href="https://bsdetect.org/about" />
+  </url>
+  
+  <!-- About page - English -->
+  <url>
+    <loc>https://bsdetect.org/about</loc>
+    <lastmod>2025-01-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link 
+      rel="alternate"
+      hreflang="no"
+      href="https://bsdetect.org/om" />
+    <xhtml:link 
+      rel="alternate"
+      hreflang="en"
+      href="https://bsdetect.org/about" />
+  </url>
+  
+</urlset>
