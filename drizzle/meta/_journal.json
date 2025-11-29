@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1763020258949,
+      "tag": "0000_serious_havok",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1763020299246,
+      "tag": "0001_workable_namor",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1763056952292,
+      "tag": "0002_old_captain_america",
+      "breakpoints": true
+    }
+  ]
+}
